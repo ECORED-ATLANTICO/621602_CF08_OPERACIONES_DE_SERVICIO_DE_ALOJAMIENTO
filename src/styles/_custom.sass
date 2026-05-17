@@ -117,8 +117,11 @@ figcaption
   &--6
     background-image: url("../assets/curso/common/bg-4-xs.png")  
   
-  // &--7
-  //   background-image: url("../assets/curso/common/bg-4.png")  
+  &--7
+    background-image: url("../assets/curso/common/bg-4.png")  
+
+  &--8
+    background-image: url("../assets/curso/common/bg-2-md.png")  
 
 .bg-title
   background-image: url("../assets/curso/common/bg-title.png")
@@ -231,6 +234,14 @@ figcaption
       @media screen and (max-width: $bp-max-md)
         transform: translateY(-0px) translateX(0px)
         position: relative
+
+      &--bigger
+        transform: translateY(-60px) translateX(45px)
+        @media (max-width: $bp-max-lg)
+          transform: translateY(-65px) translateX(8px)
+        @media screen and (max-width: $bp-max-md)
+          transform: translateY(-0px) translateX(0px)
+          position: relative
 
   .cita-decorada__texto
     position: relative

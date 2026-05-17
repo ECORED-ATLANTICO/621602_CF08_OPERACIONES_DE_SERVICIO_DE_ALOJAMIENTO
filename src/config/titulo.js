@@ -1,1 +1,2 @@
-module.exports = 'Titulo del componente formativo'
+module.exports =
+  'Sistema turístico: atractivo, facilidades, accesibilidad y Servicios'

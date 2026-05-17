@@ -25,7 +25,7 @@
               .col-12.col-lg-5.cita-decorada__texto.mb-4.mb-lg-0
                 p.mb-0.text-center.text-lg-start #[strong Anexo 4]. Comunicación asertiva con turistas (SENA, 2021).
               .col-lg-3.col-md-4.col-12.d-flex.justify-content-center
-                a.boton.color-acento-botones.my-2(:href="obtenerLink('Anexo4_CF08_Comunicacion_asertiva_con_turistas.pdf')" target="_blank")
+                a.boton.color-acento-botones.my-2(:href="obtenerLink('/downloads/Anexo4_CF08_Comunicacion_asertiva_con_turistas.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
 

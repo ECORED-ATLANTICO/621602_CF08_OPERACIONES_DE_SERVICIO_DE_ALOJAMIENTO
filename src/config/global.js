@@ -195,13 +195,135 @@ export default {
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Atractivo turístico',
+      significado:
+        'Elemento natural, cultural o construido que motiva el desplazamiento de visitantes hacia un destino determinado y constituye la base del producto turístico.',
+    },
+    {
+      termino: 'Cadena de valor turística',
+      significado:
+        'Conjunto de actividades interrelacionadas que generan valor en la prestación de servicios turísticos, desde la producción hasta la experiencia del visitante.',
+    },
+    {
+      termino: 'Comunicación asertiva',
+      significado:
+        'Capacidad de transmitir información de manera clara, precisa y respetuosa, facilitando el flujo de ideas entre las partes sin generar malentendidos ni conflictos.',
+    },
+    {
+      termino: 'Destino turístico',
+      significado:
+        'Espacio geográfico con características naturales, culturales o artificiales que atrae visitantes y cuenta con infraestructura y servicios para su atención.',
+    },
+    {
+      termino: 'Folclor',
+      significado:
+        'Conjunto de tradiciones, costumbres, expresiones artísticas y manifestaciones culturales propias de una comunidad, transmitidas de generación en generación.',
+    },
+    {
+      termino: 'GPS (sistema de posicionamiento global)',
+      significado:
+        'Sistema de navegación por satélite que permite determinar la ubicación geográfica exacta de un objeto o persona en cualquier punto de la superficie terrestre.',
+    },
+    {
+      termino: 'Informador turístico',
+      significado:
+        'Persona que, en el marco de la prestación de un servicio turístico o de alojamiento, orienta y asesora a los visitantes sobre atractivos, servicios y actividades del destino.',
+    },
+    {
+      termino: 'Mapa turístico',
+      significado:
+        'Representación cartográfica impresa o digital que destaca los sitios de interés, puntos de referencia y servicios disponibles en un destino turístico.',
+    },
+    {
+      termino: 'Orientación espacial',
+      significado:
+        'Habilidad que permite determinar la posición del propio cuerpo en relación con el espacio circundante, utilizando referencias naturales, instrumentos o tecnología.',
+    },
+    {
+      termino: 'Plano cartesiano',
+      significado:
+        'Sistema de coordenadas formado por dos rectas numéricas perpendiculares —una horizontal y una vertical— que se intersectan en un punto llamado origen, utilizado para describir la posición de un punto en el plano.',
+    },
+    {
+      termino: 'Planta turística',
+      significado:
+        'Conjunto de instalaciones, equipos y servicios que hacen posible la permanencia del turista en el destino: alojamiento, alimentación, transporte y entretenimiento.',
+    },
+    {
+      termino: 'Producto turístico',
+      significado:
+        'Combinación de atractivos, planta turística y accesibilidad que se ofrece al visitante como una experiencia integral en un destino determinado.',
+    },
+    {
+      termino: 'Puntos cardinales',
+      significado:
+        'Las cuatro direcciones principales —norte, sur, oriente y occidente— que sirven de referencia para la orientación y ubicación geográfica sobre la superficie terrestre.',
+    },
+    {
+      termino: 'Sistema turístico',
+      significado:
+        'Estructura dinámica formada por la demanda turística, la oferta, los atractivos, la planta turística, la infraestructura, la superestructura y la cadena de valor, que interactúan para hacer posible la actividad turística.',
+    },
+    {
+      termino: 'Turismo',
+      significado:
+        'Fenómeno social, cultural y económico que implica el desplazamiento de personas fuera de su entorno habitual por motivos de ocio, negocio, salud u otros, durante un período inferior a un año.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Boullón, R. C. (2006). <em>Planificación del espacio turístico</em>. Trillas.',
+      link: '',
+    },
+    {
+      referencia:
+        'Cobo, C. (2013). Orientación geográfica: la geoperspectiva integral. <em>Geograficando</em>, <em>9</em>(9).',
+      link: '',
+    },
+    {
+      referencia:
+        'Comisión Europea, Fondo Monetario Internacional, Organización de Cooperación y Desarrollo Económicos, Naciones Unidas y Banco Mundial. (2008). <em>Sistema de cuentas nacionales 2008</em>. Naciones Unidas.',
+      link: '',
+    },
+    {
+      referencia:
+        'Coque, M. y Arroyo, E. (2017). <em>Información y atención al visitante</em>. Paraninfo.',
+      link: '',
+    },
+    {
+      referencia:
+        'FONTUR. (s. f.). Glosario. <em>Fondo Nacional de Turismo</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'García Silberman, A. (1970). Clasificación de los recursos turísticos. <em>Investigaciones Geográficas</em>, <em>1</em>(3).',
+      link: '',
+    },
+    {
+      referencia:
+        'Luna, N. (s. f.). <em>Comunicación asertiva con turistas</em>. SENA.',
+      link: '',
+    },
+    {
+      referencia:
+        'Martín, B. (2013, 24 de octubre). Cadena de valor en turismo [Entrada de blog]. <em>Turismo y sostenibilidad</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'ONU Turismo. (s. f.). <em>Glosario de términos de turismo</em>. ONU Turismo. (anteriormente Organización Mundial del Turismo, OMT)',
+      link: '',
+    },
+    {
+      referencia:
+        'Ruano, C. (2012). <em>Promoción y comercialización de productos y servicios turísticos locales</em>. Alianza Editorial.',
+      link: '',
+    },
+    {
+      referencia:
+        'SENA. (s. f.). <em>El turismo rural en Colombia</em> [Video]. YouTube.',
       link: '',
     },
   ],
