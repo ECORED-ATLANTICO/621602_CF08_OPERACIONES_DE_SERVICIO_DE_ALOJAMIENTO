@@ -1,19 +1,11 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name:
+      'Sistema turístico: atractivo, facilidades, accesibilidad y Servicios',
+    Description:
+      'La información turística es una de las habilidades más importantes a desarrollar para el servicio de recepción hotelera. Los visitantes de los hoteles identifican a los recepcionistas del hotel como el personal capacitado y conocedor sobre cualquier información acerca del accionar de la cadena cultural y turística y/o de la actividad local. Por este motivo, esperan calidad y veracidad en la información que reciben y llevar a feliz término su actividad de ocio o trabajo.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-      },
-    ],
   },
   menuPrincipal: {
     menu: [
@@ -31,13 +23,33 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Turismo',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Tipología',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Características',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Sistema turístico',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Producto turístico',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Cadena de valor',
+            hash: 't_1_5',
           },
         ],
       },
@@ -45,25 +57,86 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Atractivo turístico',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Clasificación de los atractivos turísticos',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Bienes y recursos turísticos',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Zona turística',
+            hash: 't_2_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Información turística',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Características del informador turístico',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Atención y orientación al visitante',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Diferencia entre promoción e información turística',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Fuentes de información turística',
+            hash: 't_3_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Tema 4',
+        titulo: 'Ubicación espacial',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Puntos cardinales',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Técnicas de ubicación y orientación',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Puntos de referenciación en el destino',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo: 'Mapas turísticos',
+            hash: 't_4_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Tema 5',
+        titulo: 'Brindar información asertivamente',
         desarrolloContenidos: true,
       },
     ],
