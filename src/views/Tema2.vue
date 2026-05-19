@@ -190,7 +190,7 @@
                   span Descargar
                   i.fas.fa-file-download
 
-    .p-4.rounded-4.bg-secundario-s5.z-2.mb-4
+    .p-4.rounded-4.bg-secundario-s5.z-2.mb-5
       p.mb-0 Por otra parte, como recursos turísticos, se denotan aquellos elementos que podrían llegar a ser un atractivo turístico pero que aún no cuentan con la infraestructura ni los servicios necesarios para atender visitantes. Es decir, si se analiza en términos económicos, serían los bienes o activos turísticos que están en proceso de desarrollo o en espera de ser incorporados a la oferta del destino.
 
     .row.justify-content-center.mb-4.mb-lg-5
