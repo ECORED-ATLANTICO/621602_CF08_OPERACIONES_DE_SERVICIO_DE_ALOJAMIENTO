@@ -150,6 +150,166 @@
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema3/7.png", alt="")
 
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
+      .col-sm-6.col-lg-3
+        figure
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/15.png", alt="")
+      .col-lg-9
+        .bg-img.bg-img--8.p-4.rounded-4.h-100
+          p.pe-lg-5 Sin importar lo que esté sucediendo o el estado de ánimo del momento, cuando se cumple la función de atención al cliente — de forma presencial o telefónica — siempre se debe mantener un trato cordial. También es altamente recomendable conocer otro idioma y ser capaz de transmitir información en esa lengua. Para el caso de Colombia, el idioma más utilizado en el contexto turístico internacional es el inglés.
+          p.pe-lg-5 A continuación, se presentan las diez principales reglas de atención al cliente:
+
+    .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4
+      h5.mb-0 Principales reglas de atención al cliente
+
+    SlyderF(columnas="col-md-6 col-xl-4 mb-5")
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-6
+            img.w-85.mb-4(src='@/assets/curso/tema3/8.svg' alt='')
+        p.text-center.mb-4 Conocer al cliente y sus necesidades.
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-6
+            img.w-85.mb-4(src='@/assets/curso/tema3/9.svg' alt='')
+        p.text-center.mb-4 Dominar la información que se va a transmitir.
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-6
+            img.w-85.mb-4(src='@/assets/curso/tema3/10.svg' alt='')
+        p.text-center.mb-4 Recordar que la imagen personal es parte del servicio.
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-6
+            img.w-85.mb-4(src='@/assets/curso/tema3/11.svg' alt='')
+        p.text-center.mb-4 Mostrar actitud de atención y disposición de ayuda.
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-6
+            img.w-85.mb-4(src='@/assets/curso/tema3/12.svg' alt='')
+        p.text-center.mb-4 Mantener actitud positiva y demostrar interés genuino.
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-6
+            img.w-85.mb-4(src='@/assets/curso/tema3/13.svg' alt='')
+        p.text-center.mb-4 Buscar siempre una solución; evitar una negativa como primera respuesta.
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-6
+            img.w-85.mb-4(src='@/assets/curso/tema3/14.svg' alt='')
+        p.text-center.mb-4 Escuchar con atención y expresarse con claridad.
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-6
+            img.w-85.mb-4(src='@/assets/curso/tema3/15.svg' alt='')
+        p.text-center.mb-4 Convertir las quejas en oportunidades de mejora.
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-6
+            img.w-85.mb-4(src='@/assets/curso/tema3/16.svg' alt='')
+        p.text-center.mb-4 Respetar a los compañeros y trabajar en equipo.
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-6
+            img.w-85.mb-4(src='@/assets/curso/tema3/17.svg' alt='')
+        p.text-center.mb-4 Aprender continuamente y mejorar las habilidades propias.
+
+    .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4
+      h5.mb-0 Comunicación aplicada a la información turística
+
+    p Existen principios básicos de una buena comunicación que deben ser aplicados por el personal de servicio al cliente en cada interacción, con el fin de garantizar una comunicación eficiente y fortalecer el ejercicio de la buena comunicación.
+
+    .titulo-sexto.color-acento-contenido
+      h5 Tabla 2.
+      span Principios de comunicación aplicados a la información turística
+    .tabla-a.color-acento-contenido.tabla-a--text-left
+      table
+        //- caption Nota. Adaptada David (2017) y Kotler & Keller (2016).
+        thead
+          tr(style="background-color: #F0F6F9")
+            th Principio de comunicación
+            th Aplicación en el servicio al cliente
+        tbody
+          tr
+            td #[strong Amabilidad y cortesía]
+            td Inicie cualquier interacción con un saludo. Sonría y hable en un tono de voz adecuado. Esto permitirá que el interlocutor perciba una actitud positiva y receptiva.
+          tr
+            td #[strong Emisor y receptor intercambian códigos y mensajes con un propósito]
+            td Comprender el propósito de la comunicación facilita transmitir y recibir la información de manera clara y efectiva.
+          tr
+            td #[strong Todos somos distintos]
+            td Procure empatizar con el cliente, comprendiendo que cada persona tiene necesidades, expectativas y formas de comunicación diferentes.
+          tr
+            td #[strong Escuchar con atención]
+            td Durante la interacción brinde toda su atención al interlocutor y mantenga contacto visual. Esto demuestra interés genuino por lo que el cliente desea comunicar.
+          tr
+            td #[strong Indagar]
+            td Comunique la información de manera clara y directa, pero respetuosa. Evite rodeos innecesarios o respuestas ambiguas.Realice preguntas cuando sea necesario para comprender correctamente el requerimiento o la necesidad del cliente.
+          tr
+            td #[strong La sencillez y la claridad]
+            td Al proporcionar información evite el uso de vocabulario demasiado técnico. Utilice frases claras y comprensibles.
+          tr
+            td #[strong Brevedad y concreción]
+            td Procure ser directo y preciso en la información, evitando extenderse más de lo necesario y centrándose en el tema principal.
+        
+    Separador
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 3.3 Diferencia entre promoción e información turística
+
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
+      .col-lg-8
+        p A manera de precisión didáctica, es importante resaltar que la información y la promoción turísticas son diferentes conceptos. 
+        p.mb-5.mb-lg-0 Aunque ambos procesos involucran la transmisión de información de un destino o atractivo turístico, la información tiene un carácter imparcial (no comercial) y simplemente explicativo, mientras que la promoción obedece a una serie de acciones planificadas y ejecutadas para presentar un destino o atractivo turístico a un determinado mercado, con el objetivo de influir en el surgimiento o desarrollo del desplazamiento turístico hacia el mismo e impulsar su aprovechamiento económico. Para que el proceso de promoción tenga éxito, debe cumplir los siguientes pasos:
+      .col-sm-8.col-lg-4
+        figure
+          img(data-aos="fade-down-right", src="@/assets/curso/tema3/18.png", alt="")
+            
+    SlyderF(columnas="col-lg-6 col-xl-4")
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-6
+            img.w-85.mb-4(src='@/assets/curso/tema3/8.svg' alt='')
+        p.text-center.mb-4 Establecer metas específicas y bien definidas sobre lo que pretende lograr el programa de promoción.
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-6
+            img.w-85.mb-4(src='@/assets/curso/tema3/9.svg' alt='')
+        p.text-center.mb-4 Qué mercados (posibles consumidores) debe alcanzar el programa.
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-6
+            img.w-85.mb-4(src='@/assets/curso/tema3/10.svg' alt='')
+        p.text-center.mb-4 Qué medios publicitarios se utilizarán.
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-6
+            img.w-85.mb-4(src='@/assets/curso/tema3/11.svg' alt='')
+        p.text-center.mb-4 Con qué presupuesto económico se cuenta.
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-6
+            img.w-85.mb-4(src='@/assets/curso/tema3/12.svg' alt='')
+        p.text-center.mb-4 Cómo se medirán los resultados del programa.
+
+    Separador
+    #t_3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 3.4 Fuentes de información turística
+
+    p.mb-4.mb-lg-5 En términos de fuentes podemos diferenciar dos tipos de información turística:
+
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
+      .col-sm-8.col-lg-4
+        figure
+          img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema3/21.png", alt="")
+      .col-lg-8
+        p Es claro que los turistas cada vez son más independientes y que, con el uso de herramientas y aplicaciones de viaje y el acceso a información publicada en internet (blogs, recomendaciones de plataformas web), se han convertido en viajeros hiperinformados. No es raro encontrar personas que conocen más sobre una zona o un atractivo que los propios habitantes del lugar.
+        .p-4.bg-acento-contenido-a5.rounded-4.mb-3
+          p.mb-0 Por este motivo, los empleados de recepción, conserjes y todos aquellos que dentro del hotel tengan contacto con clientes deben procurar estar bien informados: en primer lugar, sobre la información básica del destino (historia, demografía, ubicación de atractivos), y también sobre las actividades y eventos de la ciudad o municipio donde laboran y sus alrededores. Esta información está disponible en las entidades oficiales y con regularidad es entregada a los establecimientos.
+        p.mb-0 Es función del jefe de recepción recibir y difundir esta información entre los empleados; sin embargo, es responsabilidad de cada empleado buscarla y conocerla.
+    
+    .p-4.bg-secundario-s10.rounded-4.mb-4
+      p.mb-0 Para explorar un ejemplo del tratamiento profesional de la información turística en Colombia, se recomienda visitar el portal oficial de turismo del país: Colombia Travel — Turismo en Colombia.
+
 
 </template>
 
