@@ -297,6 +297,23 @@
 
     p.mb-4.mb-lg-5 En términos de fuentes podemos diferenciar dos tipos de información turística:
 
+    .row.align-items-stretch.mb-5
+      .col-lg-6.mb-4.mb-lg-0
+        .rounded-4.h-100.overflow-hidden
+          figure
+            img(src="@/assets/curso/tema3/19.png", alt="", data-aos="fade-down-right")
+          .p-4.bg-secundario-s5.h-100
+            h5 La que va dirigida al usuario final
+            p.mb-0 Los visitantes consultan directamente: mayormente información proveniente de Internet y, en algunos casos, de guías turísticas y folletos.
+      
+      .col-lg-6
+        .rounded-4.h-100.overflow-hidden
+          figure
+            img(src="@/assets/curso/tema3/20.png", alt="", data-aos="fade-down-left")
+          .p-4.bg-secundario-s5
+            h5 La información que va dirigida a los profesionales del turismo
+            p.mb-0 Esta la emiten las entidades de promoción turística oficiales y los mismos operadores turísticos. Esta información es la que nos interesa, en términos de poderla retransmitir a los visitantes. Se debe renovar y complementar la información que tienen los clientes.
+
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-4
         figure
@@ -310,6 +327,41 @@
     .p-4.bg-secundario-s10.rounded-4.mb-4
       p.mb-0 Para explorar un ejemplo del tratamiento profesional de la información turística en Colombia, se recomienda visitar el portal oficial de turismo del país: Colombia Travel — Turismo en Colombia.
 
+    AcordionA(tipo="a" clase-tarjeta="tarjeta bg-terciario-t5").mb-4
+      .row.justify-content-center.align-items-center.z-2(titulo="Calidad en la información")
+        .col-sm-10.col-lg-7.mb-4.mb-lg-0
+          p La calidad de la información está directamente relacionada a la fuente de donde proviene. Nuevamente, las entidades oficiales son la fuente más fidedigna. También es válido consultar sitios de Internet, pero la recomendación es no quedarse con informaciones que no estén referenciadas y que no estén verificadas.
+          p.mb-0 Hay que tener particular cuidado y responsabilidad con los estereotipos acerca de la información turística, ya que es frecuente, por ejemplo, oír noticias negativas respecto a la seguridad de un determinado sitio. No significa que se deba mentir o disfrazar la verdad, pero si se debe buscar la mejor forma de entregar la información.
+        .col-sm-6.col-lg-3
+          figure
+            img(src='@/assets/curso/tema3/22.png', alt='')
+      .row.justify-content-center.align-items-center.z-2(titulo="Técnicas de recolección")
+        .col-sm-10.col-lg-7.mb-4.mb-lg-0
+          p Las técnicas de recolección recomendadas para tener una información completa y fidedigna son:
+          ul.checklist
+            li.d-flex.ms-3
+              p.mb-0 Revisión documental: como ya se ha mencionado, los documentos oficiales emitidos por las entidades promotoras y rectoras son una fuente segura (leyes, decretos, ordenanzas, comunicados, etc.).
+            li.d-flex.ms-3
+              p.mb-0 Información de promoción: folletos, guías de destino, mapas, son también buenas fuentes. Procure que sean provenientes de fuentes verificadas.
+            li.d-flex.ms-3 
+              p.mb-0 Información bibliográfica: este tipo de información es la mejor para enterarse de la historia, de los datos demográficos y de los datos de interés de los recursos y atractivos turísticos. 
+            li.d-flex.ms-3 
+              p.mb-0 Consulta de sitios web oficiales: para enterarse de eventos, de hechos de actualidad, de cambios en la normatividad.
+            li.d-flex.ms-3 
+              p.mb-0 Sitios web informativos: esta fuente es válida también, siempre y cuando se tome la precaución de validar y verificar la información allí consignada.
+            li.d-flex.ms-3 
+              p.mb-0 Propia observación: nada mejor que la información que se recibe de propia mano; por eso es recomendable asistir a tours guiados, cursos de información turística e ir directamente a los atractivos y, de ser posible, hacer uso de ellos o recibir la información directamente.
+        .col-sm-6.col-lg-3
+          figure
+            img(src='@/assets/curso/tema3/23.png', alt='')
+      .row.justify-content-center.align-items-center.z-2(titulo="Tipos de información turística")
+        .col-sm-10.col-lg-7.mb-4.mb-lg-0
+          p Un sistema organizado siempre será deseable en cualquier aspecto del desarrollo de las actividades turísticas. De esta forma, es recomendable generar un sistema de clasificación interno de la información turística, a razón de validar aspectos como la vigencia y pertinencia de la información. Esta clasificación, a manera de ejemplo, puede estar acorde con la fuente que emita la información (si es promocional u oficial), o podría ser separada bajo el criterio de si se puede o no entregar a los clientes.
+          p Una eficiente clasificación de la información permitirá, también, la validación de esta. Es pertinente recordar que es necesario asegurarse de que la información que se va a transmitir a los visitantes es exacta.
+          p.mb-0 Cada empresa creará su propio sistema de clasificación y validación de la información, de acuerdo con su necesidad; lo importante es lograr un sistema que sea accesible y claro para todos los miembros del equipo. Y que permita el desarrollo de la función informativa de una manera ágil.
+        .col-sm-6.col-lg-3
+          figure
+            img(src='@/assets/curso/tema3/24.png', alt='')
 
 </template>
 
