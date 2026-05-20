@@ -208,7 +208,7 @@
                   i.fas.fa-file-download
 
     .p-4.rounded-4.bg-secundario-s5.z-2.mb-5
-      p.mb-0 La siguiente imagen presenta un resumen del PDF estudiado anteriormente.
+      p.mb-0.text-center La siguiente imagen presenta un resumen del PDF estudiado anteriormente.
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1.
@@ -272,8 +272,8 @@
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Figura 2.
       span Zona turística
-    img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/13-mob.png", alt="Diagrama conceptual de una zona turística que muestra un territorio delimitado donde se concentran varios atractivos turísticos conectados entre sí. Dentro del área aparecen dos centros turísticos identificados como C.T.1 y C.T.2, rodeados por diferentes puntos que representan atractivos turísticos distribuidos en el espacio. El esquema ilustra cómo estos atractivos se agrupan y se articulan dentro de una misma zona turística")
-    img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/13.png", alt="Diagrama conceptual de una zona turística que muestra un territorio delimitado donde se concentran varios atractivos turísticos conectados entre sí. Dentro del área aparecen dos centros turísticos identificados como C.T.1 y C.T.2, rodeados por diferentes puntos que representan atractivos turísticos distribuidos en el espacio. El esquema ilustra cómo estos atractivos se agrupan y se articulan dentro de una misma zona turística")
+    img.mb-2.d-sm-none(data-aos="fade-down", src="@/assets/curso/tema2/13-mob.png", alt="Diagrama conceptual de una zona turística que muestra un territorio delimitado donde se concentran varios atractivos turísticos conectados entre sí. Dentro del área aparecen dos centros turísticos identificados como C.T.1 y C.T.2, rodeados por diferentes puntos que representan atractivos turísticos distribuidos en el espacio. El esquema ilustra cómo estos atractivos se agrupan y se articulan dentro de una misma zona turística")
+    img.mb-2.d-none.d-sm-block(data-aos="fade-down", src="@/assets/curso/tema2/13.png", alt="Diagrama conceptual de una zona turística que muestra un territorio delimitado donde se concentran varios atractivos turísticos conectados entre sí. Dentro del área aparecen dos centros turísticos identificados como C.T.1 y C.T.2, rodeados por diferentes puntos que representan atractivos turísticos distribuidos en el espacio. El esquema ilustra cómo estos atractivos se agrupan y se articulan dentro de una misma zona turística")
     figcaption  Nota. Adaptado de Boullón, R. (2006). Planificación del espacio turístico.
 
 

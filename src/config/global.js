@@ -382,7 +382,7 @@ export default {
         },
         {
           nombre: 'Fabio Fonseca Arguelles',
-          cargo: 'Desarrollador full stack',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {

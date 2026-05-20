@@ -60,7 +60,7 @@
       h2 4.2 Técnicas de ubicación y orientación
 
     .bg-secundario-s10.p-4.rounded-4.mb-4
-      p.mb-0 Existen varios métodos en que es posible orientarse. El primero de ellos empieza con la información que brindan los puntos cardinales:
+      p.mb-0.text-center Existen varios métodos en que es posible orientarse. El primero de ellos empieza con la información que brindan los puntos cardinales:
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-terciario-t5").mb-4
       .row.justify-content-center.align-items-center.z-2(titulo="Orientación con el oriente ")

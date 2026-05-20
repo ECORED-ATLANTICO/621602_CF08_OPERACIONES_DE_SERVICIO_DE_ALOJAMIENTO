@@ -31,7 +31,7 @@
       h2 3.1 Características del informador turístico 
 
     .p-4.bg-acento-contenido-a5.rounded-4.mb-4
-      p.mb-0 El informador turístico cumple funciones de transmisión e interacción con el visitante.
+      p.mb-0.text-center El informador turístico cumple funciones de transmisión e interacción con el visitante.
     
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-sm-8.col-lg-4
@@ -361,7 +361,7 @@
           p.mb-0 Cada empresa creará su propio sistema de clasificación y validación de la información, de acuerdo con su necesidad; lo importante es lograr un sistema que sea accesible y claro para todos los miembros del equipo. Y que permita el desarrollo de la función informativa de una manera ágil.
         .col-sm-6.col-lg-3
           figure
-            img(src='@/assets/curso/tema3/24.png', alt='')
+            img(src='@/assets/curso/tema3/24.png', alt='' data-aos="fade-down-right")
 
 </template>
 

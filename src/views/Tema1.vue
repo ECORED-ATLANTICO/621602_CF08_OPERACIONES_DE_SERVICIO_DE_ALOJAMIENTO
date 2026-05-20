@@ -44,20 +44,20 @@
       .col-md-6.col-lg-5.col-xl-3.mb-3.mb-lg-0
         .tarjeta-avatar.h-100
           img(src='@/assets/curso/tema1/4.svg', alt='')
-          .tarjeta.bg-secundario-s5
+          .tarjeta.bg-acento-botones-a5
             .p-4.text-center
               h4 Socio cultural
               p.mb-0 Intercambio de experiencias
       .col-md-6.col-lg-5.col-xl-3.mb-3.mb-lg-0
         .tarjeta-avatar.h-100
           img(src='@/assets/curso/tema1/5.svg', alt='')
-          .tarjeta.bg-secundario-s5
+          .tarjeta.bg-acento-botones-a5
             .p-4.text-center
               h4 Generador de empleo
               p.mb-0 Es uno de los sectores de la economía que mayor número de empleos aporta.
 
     .p-4.rounded-4.bg-acento-contenido-a5
-      p.mb-0 Estos aspectos hacen que el turismo sea un dinamizador importante de la economía nacional.
+      p.mb-0.text-center Estos aspectos hacen que el turismo sea un dinamizador importante de la economía nacional.
 
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido
@@ -98,13 +98,13 @@
           .tarjeta.bg-img.bg-img--3.p-4.py-5
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/tema1/11.svg' alt='')
+                img(src='@/assets/curso/tema1/38.svg' alt='')
             h4.text-center Turismo de negocios
             p.text-center.mb-4 De reuniones, de eventos, de congresos, ferial.
           .tarjeta.bg-img.bg-img--3.p-4.py-5
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/tema1/12.svg' alt='')
+                img(src='@/assets/curso/tema1/11.svg' alt='')
             h4.text-center Turismo de experiencias
             p.text-center.mb-4 De compras, negro, hipster, de juego, militarista.
           .tarjeta.bg-img.bg-img--3.p-4.py-5
@@ -132,7 +132,7 @@
 
     .row.justify-content-center.align-items-stretch.z-2.mb-4
       .col-lg-9.mb-4.mb-lg-0
-        .bg-img.bg-img--8.p-4.rounded-4.h-100
+        .bg-img.bg-img--8.p-4.rounded-4.h-100.d-flex.justify-content-center.flex-column
           p.pe-lg-5 El turismo, como se ha explicado anteriormente, es una actividad en la cual se involucran diferentes actores, y se denota por unas características bien definidas, la principal es:
           p.mb-0.pe-lg-5 Característica principal
       .col-sm-6.col-lg-3
@@ -146,7 +146,7 @@
         i.fas.fa-quote-right
 
     .p-4.rounded-4.bg-secundario-s10.mb-4
-      p.mb-0 Adicionalmente se pueden mencionar otras características transversales a la actividad turística, como son:
+      p.mb-0.text-center Adicionalmente se pueden mencionar otras características transversales a la actividad turística, como son:
 
     .row.justify-content-center.align-items-center.z-2
       .col-sm-10.col-lg-6
@@ -204,7 +204,7 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/17.png", alt="")
       .col-lg-8
-        .p-4.bg-acento-contenido-a5.rounded-4.h-100
+        .p-4.bg-acento-contenido-a5.rounded-4.h-100.d-flex.align-items-center
           p.mb-0 Para la prestación de servicios turísticos, es necesario conocer el funcionamiento del sistema turístico, que se define como el conjunto de elementos interrelacionados entre sí que evolucionan de forma dinámica para configurar la naturaleza de la actividad turística, y está conformado por cinco subsistemas:
 
     TabsB.color-primario.mb-4.mb-lg-5
@@ -350,8 +350,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Cadena de valor del turismo
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/37-mob.svg", alt="Infografía titulada “Cadena de valor del turismo”. Presenta una secuencia de etapas conectadas que representan el proceso del viaje turístico: planificación del viaje, transporte, hospedaje, alimentación, actividades y experiencia. Cada etapa está acompañada por un ícono representativo, como un mapa para la planificación, un avión para el transporte, una campana de hotel para el hospedaje, un pescado para la alimentación, un castillo para las actividades y un turista para la experiencia final.")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/37.svg", alt="Infografía titulada “Cadena de valor del turismo”. Presenta una secuencia de etapas conectadas que representan el proceso del viaje turístico: planificación del viaje, transporte, hospedaje, alimentación, actividades y experiencia. Cada etapa está acompañada por un ícono representativo, como un mapa para la planificación, un avión para el transporte, una campana de hotel para el hospedaje, un pescado para la alimentación, un castillo para las actividades y un turista para la experiencia final.")
+        img.mb-2.d-sm-none(data-aos="fade-down", src="@/assets/curso/tema1/37-mob.svg", alt="Infografía titulada “Cadena de valor del turismo”. Presenta una secuencia de etapas conectadas que representan el proceso del viaje turístico: planificación del viaje, transporte, hospedaje, alimentación, actividades y experiencia. Cada etapa está acompañada por un ícono representativo, como un mapa para la planificación, un avión para el transporte, una campana de hotel para el hospedaje, un pescado para la alimentación, un castillo para las actividades y un turista para la experiencia final.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-down", src="@/assets/curso/tema1/37.svg", alt="Infografía titulada “Cadena de valor del turismo”. Presenta una secuencia de etapas conectadas que representan el proceso del viaje turístico: planificación del viaje, transporte, hospedaje, alimentación, actividades y experiencia. Cada etapa está acompañada por un ícono representativo, como un mapa para la planificación, un avión para el transporte, una campana de hotel para el hospedaje, un pescado para la alimentación, un castillo para las actividades y un turista para la experiencia final.")
         figcaption Nota. SENA, (2026).
 
 
