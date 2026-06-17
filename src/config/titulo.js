@@ -1,2 +1,2 @@
 module.exports =
-  'Sistema turístico: atractivo, facilidades, accesibilidad y Servicios'
+  'Sistema turístico: atractivo, facilidades, accesibilidad y servicios'

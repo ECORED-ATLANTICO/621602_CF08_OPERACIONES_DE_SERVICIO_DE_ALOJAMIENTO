@@ -224,7 +224,7 @@
       span Principios de comunicación aplicados a la información turística
     .tabla-a.color-acento-contenido.tabla-a--text-left
       table
-        //- caption Nota. Adaptada David (2017) y Kotler & Keller (2016).
+        caption Nota. SENA, (2026). 
         thead
           tr(style="background-color: #F0F6F9")
             th Principio de comunicación
@@ -354,7 +354,7 @@
         .col-sm-6.col-lg-3
           figure
             img(src='@/assets/curso/tema3/23.png', alt='')
-      .row.justify-content-center.align-items-center.z-2(titulo="Tipos de información turística")
+      .row.justify-content-center.align-items-center.z-2(titulo="Clasificación y validación")
         .col-sm-10.col-lg-7.mb-4.mb-lg-0
           p Un sistema organizado siempre será deseable en cualquier aspecto del desarrollo de las actividades turísticas. De esta forma, es recomendable generar un sistema de clasificación interno de la información turística, a razón de validar aspectos como la vigencia y pertinencia de la información. Esta clasificación, a manera de ejemplo, puede estar acorde con la fuente que emita la información (si es promocional u oficial), o podría ser separada bajo el criterio de si se puede o no entregar a los clientes.
           p Una eficiente clasificación de la información permitirá, también, la validación de esta. Es pertinente recordar que es necesario asegurarse de que la información que se va a transmitir a los visitantes es exacta.

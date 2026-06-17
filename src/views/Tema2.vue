@@ -14,7 +14,7 @@
       .row.justify-content-center.z-2.mb-3
         .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
           div.banner-text.shadow
-            p.mb-0 Son todos aquellos elementos naturales, bienes creados por la actividad humana y hechos sociales que crean el interés de ser conocidos y permiten su disfrute. En este sentido, es importante señalar que la evolución de los viajeros (demanda turística) ha obligado al sector a ofertar productos cada vez más especializados. Esta realidad ha derivado en una diversificación turística sin precedentes. A continuación, se clasifican los atractivos turísticos con el fin de ayudar al entendimiento de este concepto
+            p.mb-0 Son todos aquellos elementos naturales, bienes creados por la actividad humana y hechos sociales que crean el interés de ser conocidos y permiten su disfrute. En este sentido, es importante señalar que la evolución de los viajeros (demanda turística) ha obligado al sector a ofertar productos cada vez más especializados. Esta realidad ha derivado en una diversificación turística sin precedentes. A continuación, se clasifican los atractivos turísticos con el fin de ayudar al entendimiento de este concepto.
 
     separador
 
@@ -208,14 +208,14 @@
                   i.fas.fa-file-download
 
     .p-4.rounded-4.bg-secundario-s5.z-2.mb-5
-      p.mb-0.text-center La siguiente imagen presenta un resumen del PDF estudiado anteriormente.
+      p.mb-0.text-center La siguiente tabla presenta un resumen del PDF estudiado anteriormente.
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1.
       span Clasificación de los recursos turísticos
     .tabla-a.color-acento-contenido.tabla-a--text-left
       table
-        //- caption Nota. Adaptada David (2017) y Kotler & Keller (2016).
+        caption Nota. SENA, (2026). 
         thead
           tr(style="background-color: #F0F6F9")
             th Categoría
@@ -224,36 +224,36 @@
         tbody
           tr
             td(rowspan="7") Naturales
-            td(colspan="2") #[strong Geomorfológicos – Litorales].
-            td(colspan="2") Rocas e islas, playas, acantilados, desembocaduras de ríos.
+            td(colspan="2") #[strong Geomorfológicos – Litorales]
+            td(colspan="2") Rocas e islas, playas, acantilados, desembocaduras de ríos
           tr
-            td(colspan="2") #[strong Geomorfológicos – Lagunas y depósitos de agua].
-            td(colspan="2") Lagos, lagunas.
+            td(colspan="2") #[strong Geomorfológicos – Lagunas y depósitos de agua]
+            td(colspan="2") Lagos, lagunas
           tr
-            td(colspan="2") #[strong Geomorfológicos – Corrientes de agua].
-            td(colspan="2") Superficiales: cañones, cascadas. Subterráneas: manantiales, grutas.
+            td(colspan="2") #[strong Geomorfológicos – Corrientes de agua]
+            td(colspan="2") Superficiales: cañones, cascadas. Subterráneas: manantiales, grutas
           tr
-            td(colspan="2") #[strong Geomorfológicos – Volcanismo].
-            td(colspan="2") Cráteres, aguas termales y minerales, géiseres.
+            td(colspan="2") #[strong Geomorfológicos – Volcanismo]
+            td(colspan="2") Cráteres, aguas termales y minerales, géiseres
           tr
-            td(colspan="2") #[strong Geomorfológicos – Relieves].
-            td(colspan="2") Montañas, barrancas y cañones, planicies, dunas.
+            td(colspan="2") #[strong Geomorfológicos – Relieves]
+            td(colspan="2") Montañas, barrancas y cañones, planicies, dunas
           tr
-            td(colspan="2") #[strong Biogeográficos – Agrupaciones vegetales].
-            td(colspan="2") Selvas, bosques.
+            td(colspan="2") #[strong Biogeográficos – Agrupaciones vegetales]
+            td(colspan="2") Selvas, bosques
           tr
-            td(colspan="2") #[strong Biogeográficos – Agrupaciones vegetales].
-            td(colspan="2") Fauna silvestre, zonas de caza.
+            td(colspan="2") #[strong Biogeográficos – Agrupaciones vegetales]
+            td(colspan="2") Fauna silvestre, zonas de caza
           tr
             td(rowspan="3") Culturales
-            td(colspan="2") #[strong Históricos].
-            td(colspan="2") Zonas arqueológicas, arquitectura antigua, lugares históricos, poblados típicos, folklore, fiestas tradicionales. 
+            td(colspan="2") #[strong Históricos]
+            td(colspan="2") Zonas arqueológicas, arquitectura antigua, lugares históricos, poblados típicos, folklore, fiestas tradicionales
           tr
-            td(colspan="2") #[strong Contemporáneos (comerciales)].
-            td(colspan="2") Centros de convenciones, instituciones de enseñanza, bibliotecas, museos y pinturas murales, obras monumentales, invernaderos, zoológicos.
+            td(colspan="2") #[strong Contemporáneos (comerciales)]
+            td(colspan="2") Centros de convenciones, instituciones de enseñanza, bibliotecas, museos y pinturas murales, obras monumentales, invernaderos, zoológicos
           tr
-            td(colspan="2") #[strong Contemporáneos (no comerciales)].
-            td(colspan="2") Parques de diversiones, balnearios, espectáculos culturales, espectáculos deportivos, campos deportivos, exposiciones nacionales e internacionales, mercados de artesanías, comercios, centros de salud, ferias y carnavales, celebraciones religiosas, casinos, concursos y competencias.
+            td(colspan="2") #[strong Contemporáneos (no comerciales)]
+            td(colspan="2") Parques de diversiones, balnearios, espectáculos culturales, espectáculos deportivos, campos deportivos, exposiciones nacionales e internacionales, mercados de artesanías, comercios, centros de salud, ferias y carnavales, celebraciones religiosas, casinos, concursos y competencias
 
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")

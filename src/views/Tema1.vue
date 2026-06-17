@@ -15,7 +15,7 @@
         .d-flex.align-items-center.h-100
           div.px-xl-4
             p.mb-0 ONU Turismo (anteriormente denominada Organización Mundial del Turismo, OMT) define el turismo como: 
-            p.mb-0 Fenómeno social, cultural y económico que supone el desplazamiento de personas a países o lugares fuera de su entorno habitual por motivos personales, profesionales o de negocios. Esas personas se denominan viajeros (que pueden ser o bien turistas o excursionistas; residentes o no residentes) y el turismo abarca sus actividades, algunas de las cuales suponen un gasto turístico. (ONU Turismo, s. f.)
+            p.mb-0 Fenómeno social, cultural y económico que supone el desplazamiento de personas a países o lugares fuera de su entorno habitual por motivos personales, profesionales o de negocios. Esas personas se denominan viajeros (que pueden ser o bien turistas o excursionistas; residentes o no residentes) y el turismo abarca sus actividades, algunas de las cuales suponen un gasto turístico. (ONU Turismo, s. f.).
     
     .row.justify-content-center.align-items-center.mb-4.z-2
       .col-lg-8.mb-4.mb-lg-0
@@ -47,7 +47,7 @@
           .tarjeta.bg-acento-botones-a5
             .p-4.text-center
               h4 Socio cultural
-              p.mb-0 Intercambio de experiencias
+              p.mb-0 Intercambio de experiencias.
       .col-md-6.col-lg-5.col-xl-3.mb-3.mb-lg-0
         .tarjeta-avatar.h-100
           img(src='@/assets/curso/tema1/5.svg', alt='')
@@ -106,7 +106,7 @@
               .col-6
                 img(src='@/assets/curso/tema1/11.svg' alt='')
             h4.text-center Turismo de experiencias
-            p.text-center.mb-4 De compras, negro, hipster, de juego, militarista.
+            p.text-center.mb-4 De compras, negro, hípster, de juego, militarista.
           .tarjeta.bg-img.bg-img--3.p-4.py-5
             .row.justify-content-center.mb-3
               .col-6
@@ -173,7 +173,7 @@
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
               h4 Inseparabilidad
-              p.mb-0 La creación y realización del servicio puede ocurrir al mismo tiempo que su consumo (in situ).
+              p.mb-0 La creación y realización del servicio puede ocurrir al mismo tiempo que su consumo (#[em in situ]).
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
               h4 No devolución
@@ -184,7 +184,7 @@
               p.mb-0 El número de empresas que intervienen en la prestación del servicio hacen que la satisfacción del turista no dependa de una sola empresa sino del conjunto de prestadores.
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
-              h4 Estancionalidad
+              h4 Estacionalidad
               p.mb-0 Hace alusión a la concentración de la demanda turística en ciertos periodos del año. Ejemplo: temporadas, vacaciones, fines de semana.
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
@@ -249,6 +249,7 @@
             figure
               img(src='@/assets/curso/tema1/27.png', alt='')
 
+    p.mb-4.mb-lg-5 En la siguiente infografía, se comparte cómo se encuentra organizado el sistema turístico.
     .row.mb-4.justify-content-center.align-items-stretch
       .col-sm-6.col-lg-4.mb-4
         .tarjeta-avatar-b.align-items-center(data-aos="fade-up").h-100

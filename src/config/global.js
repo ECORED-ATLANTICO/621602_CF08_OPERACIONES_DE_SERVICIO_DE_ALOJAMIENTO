@@ -1,7 +1,7 @@
 export default {
   global: {
     Name:
-      'Sistema turístico: atractivo, facilidades, accesibilidad y Servicios',
+      'Sistema turístico: atractivo, facilidades, accesibilidad y servicios',
     Description:
       'La información turística es una de las habilidades más importantes a desarrollar para el servicio de recepción hotelera. Los visitantes de los hoteles identifican a los recepcionistas del hotel como el personal capacitado y conocedor sobre cualquier información acerca del accionar de la cadena cultural y turística y/o de la actividad local. Por este motivo, esperan calidad y veracidad en la información que reciben y llevar a feliz término su actividad de ocio o trabajo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),

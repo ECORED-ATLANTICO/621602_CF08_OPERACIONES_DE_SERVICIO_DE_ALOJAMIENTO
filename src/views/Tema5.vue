@@ -74,7 +74,7 @@
           p.mb-0 Recomendaciones de seguridad.
 
     .bg-secundario-s10.p-4.rounded-4.mb-4
-      p.mb-0.text-center Podcast: Para reforzar los conceptos sobre fuentes de información turística y comunicación asertiva trabajados en este componente, se recomienda escuchar el siguiente recurso de audio: ¿Cómo saber qué información turística es confiable y cómo transmitirla bien?.
+      p.mb-0.text-center Pódcast: para reforzar los conceptos sobre fuentes de información turística y comunicación asertiva trabajados en este componente, se recomienda consultar el siguiente recurso de audio: ¿Cómo saber qué información turística es confiable y cómo transmitirla bien?.
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5.z-2
       .col-sm-8.col-lg-5
@@ -89,8 +89,8 @@
             h5 ¿Sabías qué?
             p Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-terciario.mb-3(
-              texto="El check-in paso a paso: más allá del trámite, una experiencia de servicio."
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              texto="¿Cómo saber qué información turística es confiable y cómo transmitirla bien?"
+              :audio="require('@/assets/audio/como-saber-que-informacion-turistica-es-confiable-y-como-transmitirla-bien.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
 
