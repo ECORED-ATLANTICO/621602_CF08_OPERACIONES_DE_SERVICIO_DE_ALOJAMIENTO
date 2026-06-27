@@ -106,13 +106,13 @@
               .col-6
                 img(src='@/assets/curso/tema1/11.svg' alt='')
             h4.text-center Turismo de experiencias
-            p.text-center.mb-4 De compras, negro, hípster, de juego, militarista.
+            p.text-center.mb-4 De compras, negro, #[em hipster], de juego, militarista.
           .tarjeta.bg-img.bg-img--3.p-4.py-5
             .row.justify-content-center.mb-3
               .col-6
                 img(src='@/assets/curso/tema1/12.svg' alt='')
             h4.text-center Turismo de fe
-            p.text-center.mb-4 Espiritual, religioso, esotérico, halal.
+            p.text-center.mb-4 Espiritual, religioso, esotérico, #[em halal].
           .tarjeta.bg-img.bg-img--3.p-4.py-5
             .row.justify-content-center.mb-3
               .col-6
@@ -249,7 +249,7 @@
             figure
               img(src='@/assets/curso/tema1/27.png', alt='')
 
-    p.mb-4.mb-lg-5 En la siguiente infografía, se comparte cómo se encuentra organizado el sistema turístico.
+    p.mb-4.mb-lg-5 A continuación, se comparte cómo se encuentra organizado el sistema turístico.
     .row.mb-4.justify-content-center.align-items-stretch
       .col-sm-6.col-lg-4.mb-4
         .tarjeta-avatar-b.align-items-center(data-aos="fade-up").h-100

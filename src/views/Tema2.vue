@@ -53,7 +53,7 @@
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-5.mb-4.mb-lg-0
               h4 Pantanos
-              p.mb-0 Son de gran importancia para la conservación de ecosistemas. En esta imagen, una vista aérea de los Everglades de la Florida en Estados Unidos.
+              p.mb-0 Son de gran importancia para la conservación de ecosistemas. En esta imagen, una vista aérea de los #[em Everglades] de la Florida en Estados Unidos.
             .col-sm-10.col-lg-6
               figure
                 img(src='@/assets/curso/tema2/5.png', alt='')
@@ -171,7 +171,7 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
         p Los bienes son objetos físicos producidos para los que existe una demanda, sobre los que se pueden establecer derechos de propiedad y que pueden transferirse de una unidad institucional a otra mediante transacciones realizadas en los mercados. (Comisión Europea et al., 2008).
-        p.mb-4.mb-lg-0 Para ampliar la información sobre bienes y su definición en el contexto económico, se recomienda consultar el siguiente documento de referencia: Sistema de Cuentas Nacionales 2008. |
+        p.mb-4.mb-lg-0 Para ampliar la información sobre bienes y su definición en el contexto económico, se recomienda consultar el siguiente documento de referencia: Sistema de Cuentas Nacionales 2008.
       .col-sm-8.col-lg-4
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema2/11.png", alt="")

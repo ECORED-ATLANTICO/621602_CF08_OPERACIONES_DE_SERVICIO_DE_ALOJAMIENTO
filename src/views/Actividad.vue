@@ -35,7 +35,7 @@ export default {
             {
               id: 'a',
               texto:
-                'Fenómeno social, cultural y económico que implica el desplazamiento de personas fuera de su entorno habitual .',
+                'Fenómeno social, cultural y económico que implica el desplazamiento de personas fuera de su entorno habitual.',
               esCorrecta: true,
             },
             {
@@ -69,7 +69,7 @@ export default {
             {
               id: 'a',
               texto:
-                'El traslado temporal de una persona a un lugar diferente a su residencia habitual .',
+                'El traslado temporal de una persona a un lugar diferente a su residencia habitual.',
               esCorrecta: true,
             },
             {
@@ -111,7 +111,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'El servicio no se puede percibir antes de consumirlo .',
+              texto: 'El servicio no se puede percibir antes de consumirlo.',
               esCorrecta: true,
             },
             {
@@ -138,7 +138,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Estructura turística .',
+              texto: 'Estructura turística.',
               esCorrecta: true,
             },
             {
@@ -269,7 +269,7 @@ export default {
             {
               id: 'b',
               texto:
-                'Elementos naturales o culturales que generan interés para ser visitados .',
+                'Elementos naturales o culturales que generan interés para ser visitados.',
               esCorrecta: true,
             },
             {
@@ -626,8 +626,7 @@ export default {
             },
             {
               id: 'b',
-              texto:
-                'Orientarse por la sombra de un palo o por las estrellas .',
+              texto: 'Orientarse por la sombra de un palo o por las estrellas.',
               esCorrecta: true,
             },
             {

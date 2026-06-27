@@ -325,7 +325,7 @@
         p.mb-0 Es función del jefe de recepción recibir y difundir esta información entre los empleados; sin embargo, es responsabilidad de cada empleado buscarla y conocerla.
     
     .p-4.bg-secundario-s10.rounded-4.mb-4
-      p.mb-0 Para explorar un ejemplo del tratamiento profesional de la información turística en Colombia, se recomienda visitar el portal oficial de turismo del país: Colombia Travel — Turismo en Colombia.
+      p.mb-0 Para explorar un ejemplo del tratamiento profesional de la información turística en Colombia, se recomienda visitar el portal oficial de turismo del país: Colombia Travel - Turismo en Colombia. <a href="https://colombia.travel/es">https://colombia.travel/es</a>
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-terciario-t5").mb-4
       .row.justify-content-center.align-items-center.z-2(titulo="Calidad en la información")
