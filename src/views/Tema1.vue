@@ -249,7 +249,7 @@
             figure
               img(src='@/assets/curso/tema1/27.png', alt='')
 
-    p.mb-4.mb-lg-5 A continuación, se comparte cómo se encuentra organizado el sistema turístico.
+    p.mb-4.mb-lg-5 A continuación, se detalla cómo se encuentra organizado el sistema turístico.
     .row.mb-4.justify-content-center.align-items-stretch
       .col-sm-6.col-lg-4.mb-4
         .tarjeta-avatar-b.align-items-center(data-aos="fade-up").h-100
