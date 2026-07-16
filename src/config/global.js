@@ -232,11 +232,6 @@ export default {
         'Habilidad que permite determinar la posición del propio cuerpo en relación con el espacio circundante, utilizando referencias naturales, instrumentos o tecnología.',
     },
     {
-      termino: 'Plano cartesiano',
-      significado:
-        'Sistema de coordenadas formado por dos rectas numéricas perpendiculares —una horizontal y una vertical— que se intersectan en un punto llamado origen, utilizado para describir la posición de un punto en el plano.',
-    },
-    {
       termino: 'Planta turística',
       significado:
         'Conjunto de instalaciones, equipos y servicios que hacen posible la permanencia del turista en el destino: alojamiento, alimentación, transporte y entretenimiento.',
@@ -266,17 +261,19 @@ export default {
     {
       referencia:
         'Boullón, R. C. (2006). <em>Planificación del espacio turístico</em>. Trillas.',
-      link: '',
+      link:
+        'https://www.entornoturistico.com/wp-content/uploads/2017/02/Planificaci%C3%B3n-del-espacio-tur%C3%ADstico-de-Roberto-C.-Boullon-PDF.pdf ',
     },
     {
       referencia:
         'Cobo, C. (2013). Orientación geográfica: la geoperspectiva integral. <em>Geograficando</em>, <em>9</em>(9).',
-      link: '',
+      link:
+        'https://www.memoria.fahce.unlp.edu.ar/art_revistas/pr.6061/pr.6061.pdf ',
     },
     {
       referencia:
-        'Comisión Europea, Fondo Monetario Internacional, Organización de Cooperación y Desarrollo Económicos, Naciones Unidas y Banco Mundial. (2008). <em>Sistema de cuentas nacionales 2008</em>. Naciones Unidas.',
-      link: '',
+        'Comisión Europea, Fondo Monetario Internacional, Organización de Cooperación y Desarrollo Económicos, Naciones Unidas y Banco Mundial. (2025). <em>Sistema de cuentas nacionales 2025</em>. Naciones Unidas. ',
+      link: 'https://unstats.un.org/unsd/nationalaccount/sna2025.asp',
     },
     {
       referencia:
@@ -291,17 +288,19 @@ export default {
     {
       referencia:
         'García Silberman, A. (1970). Clasificación de los recursos turísticos. <em>Investigaciones Geográficas</em>, <em>1</em>(3).',
-      link: '',
+      link:
+        'https://www.investigacionesgeograficas.unam.mx/index.php/rig/article/download/58846/51834/169721',
     },
     {
       referencia:
-        'Luna, N. (s. f.). <em>Comunicación asertiva con turistas</em>. SENA.',
+        'Luna Pérez, N. del C. (s. f.). <em>Comunicación asertiva con turistas</em> [Material de formación]. Servicio Nacional de Aprendizaje (SENA). Formación en Ambientes Virtuales de Aprendizaje (FAVA).',
       link: '',
     },
     {
       referencia:
         'Martín, B. (2013, 24 de octubre). Cadena de valor en turismo [Entrada de blog]. <em>Turismo y sostenibilidad</em>.',
-      link: '',
+      link:
+        'https://turismoysostenibilidad.wordpress.com/2013/10/24/cadena-de-valor-en-turismo/ ',
     },
     {
       referencia:
@@ -316,7 +315,7 @@ export default {
     {
       referencia:
         'SENA. (s. f.). <em>El turismo rural en Colombia</em> [Video]. YouTube.',
-      link: '',
+      link: 'https://www.youtube.com/watch?v=YIpnqZRTYZU',
     },
   ],
   creditos: [
@@ -326,8 +325,8 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
-          centro: 'Centro Agroturistico - Regional Santander',
+            'Responsable Nacional Ecosistema de Recursos Educativos Digitales (RED) - Profesional 06',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre ',
@@ -342,17 +341,18 @@ export default {
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesor metodológico y pedagógico',
-          centro: 'Centro Industrial del Diseño y la Manufactura',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Harbey Enrique Castelblanco',
           cargo: 'Experto temático',
-          centro: 'Centro Nacional Colombo Alemán',
+          centro: 'Centro Nacional Colombo Alemán - Regional Atlántico',
         },
         {
           nombre: 'Leydy Jhuliana Jaramillo Mejía',
           cargo: 'Diseñadora instruccional',
-          centro: 'Centro de Gestión Industrial',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
         },
         {
           nombre: 'Uriel Darío González Montoya',
@@ -361,7 +361,7 @@ export default {
         },
         {
           nombre: 'Ana Catalina Córdoba Sus',
-          cargo: 'Revisora Metodológica y Pedagógica',
+          cargo: 'Revisora metodológica y pedagógica',
           centro:
             'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },

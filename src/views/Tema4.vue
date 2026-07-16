@@ -25,7 +25,7 @@
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema4/2.png", alt="")
       .col-lg-8
         p La utilización de nuevas tecnologías (teléfonos inteligentes y sistema de posicionamiento global, GPS) hace cada vez más fácil determinar la ubicación espacial sin el uso de mapas. El GPS ayuda a los viajeros a saber dónde se encuentran y hacia dónde se dirigen. Sin embargo, es necesario saber ubicarse espacialmente para no depender exclusivamente de tecnologías externas, especialmente en sitios donde estas no estén disponibles. 
-        p.mb-0 A continuación se presentan varios métodos para lograrlo.
+        p.mb-0 A continuación, se presentan varios métodos para lograrlo.
 
     Separador
     
@@ -38,7 +38,7 @@
           img(src="@/assets/curso/tema4/3.png", alt="alt text")
       .col-lg-9.p-4.p-xl-0
         .d-flex.align-items-center.h-100
-          p.mb-0.px-lg-3 Los puntos cardinales son las cuatro direcciones principales que permiten orientarse y ubicarse en un mapa o sobre la superficie terrestre. Para comprender el sentido de la orientación, es necesario considerar la perspectiva del entorno desde el lugar en el que se encuentra el observador en la tierra. Desde esta posición se identifican las diferentes direcciones: oriente, occidente, norte y sur. La comprensión del horizonte resulta fundamental para determinar la posición geográfica. A continuación, se presentan brevemente estos puntos cardinales (Cobo, 2013).
+          p.mb-0.px-lg-3 Los puntos cardinales son las cuatro direcciones principales que permiten orientarse y ubicarse en un mapa o sobre la superficie terrestre. Para comprender el sentido de la orientación, es necesario considerar la perspectiva del entorno desde el lugar en el que se encuentra el observador en la Tierra. Desde esta posición se identifican las diferentes direcciones: oriente, occidente, norte y sur. La comprensión del horizonte resulta fundamental para determinar la posición geográfica. A continuación, se presentan brevemente estos puntos cardinales (Cobo, 2013).
           
     .row.justify-content-center.mb-5
       .col-12.col-lg-10.mb-0.col-md-12
@@ -60,23 +60,22 @@
       h2 4.2 Técnicas de ubicación y orientación
 
     .bg-secundario-s10.p-4.rounded-4.mb-4
-      p.mb-0.text-center Existen varios métodos en que es posible orientarse. El primero de ellos empieza con la información que brindan los puntos cardinales:
+      p.mb-0.text-center Existen varios métodos con los que es posible orientarse. El primero de ellos empieza con la información que brindan los puntos cardinales:
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-terciario-t5").mb-4
       .row.justify-content-center.align-items-center.z-2(titulo="Orientación con el oriente ")
         .col-sm-10.col-lg-7.mb-4.mb-lg-0
-          p.mb-0 Orientarse con las estrellas (hemisferio sur)
-          p.mb-0 En el hemisferio sur se busca la “Cruz del Sur”, una constelación con forma de rombo o cometa. Si prolongamos la longitud de la cometa cuatro veces y media, el punto imaginario que localicemos indicará siempre el sur.
+          p.mb-0 Orientarse con las estrellas (hemisferio sur). En el hemisferio sur se busca la “Cruz del Sur”, una constelación con forma de rombo o cometa. Si prolongamos la longitud de la cometa cuatro veces y media, el punto imaginario que localicemos indicará siempre el sur.
         .col-sm-7.col-lg-4
           figure
             img(src='@/assets/curso/tema4/4.png', alt='')
       .row.justify-content-center.align-items-center.z-2(titulo="Orientación con la sombra de un palo ")
         .col-sm-10.col-lg-7.mb-4.mb-lg-0
-          p.mb-0 Este método solo funciona cuando hay sol. Se clava en un terreno abierto y llano un palo que proyecte una sombra de unos 30 o 40 cm. Luego de esto marcamos el extremo de la sombra. A continuación, con un cordón de un zapato, una rama u otro método improvisado, se traza una semicircunferencia usando como radio la longitud de la sombra. Ahora es necesario esperar el movimiento del Sol. La sombra se irá reduciendo a medida que nos acercamos a las 12:00 del día. Momento en que alcanzará su menor tamaño para después volver a crecer. En el punto en el que la sombra vuelva a alcanzar la semicircunferencia pondremos una marca. Al unir las dos marcas s traza una línea occidente (primera marca) – oriente (segunda marca). En la perpendicular se encontrarán el norte y el sur. Este método requiere tiempo y condiciones de luz solar adecuadas.
+          p.mb-0 Este método solo funciona cuando hay sol. Se clava en un terreno abierto y llano un palo que proyecte una sombra de unos 30 o 40 cm. Luego de esto marcamos el extremo de la sombra. A continuación, con un cordón de un zapato, una rama u otro método improvisado, se traza una semicircunferencia usando como radio la longitud de la sombra. Ahora es necesario esperar el movimiento del Sol. La sombra se irá reduciendo a medida que nos acercamos a las 12:00 del día. Momento en que alcanzará su menor tamaño para después volver a crecer. En el punto en el que la sombra vuelva a alcanzar la semicircunferencia pondremos una marca. Al unir las dos marcas se traza una línea occidente (primera marca) – oriente (segunda marca). En la perpendicular se encontrarán el norte y el sur. Este método requiere tiempo y condiciones de luz solar adecuadas.
         .col-sm-7.col-lg-4
           figure
             img(src='@/assets/curso/tema4/5.png', alt='')
-      .row.justify-content-center.align-items-center.z-2(titulo="Orientarse con las estrellas (hemisferio norte)")
+      .row.justify-content-center.align-items-center.z-2(titulo="Orientación con las estrellas (hemisferio norte)")
         .col-sm-10.col-lg-7.mb-4.mb-lg-0
           p.mb-0 En el hemisferio norte del planeta, la estrella polar indica siempre el norte. Esta estrella es la última de la cola de la Osa Menor y, a pesar de que en casi todas las ilustraciones se muestra como una estrella muy brillante, su luz es tan pálida que con frecuencia no es fácil de ver. No obstante, es fácil guiarse por la Osa Mayor para localizar el punto donde se encuentra la estrella polar. Para ello solo tenemos que prolongar cuatro veces la distancia que separa las dos estrellas frontales de la Osa Mayor.
         .col-sm-7.col-lg-4

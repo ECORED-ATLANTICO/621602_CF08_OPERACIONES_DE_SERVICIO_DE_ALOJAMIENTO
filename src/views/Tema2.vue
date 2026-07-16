@@ -24,7 +24,7 @@
     .row.justify-content-center.align-items-stretch.z-2.mb-4
       .col-lg-6.mb-4.mb-lg-0
         .p-4.rounded-4.bg-acento-contenido-a5.h-100
-          p En primer lugar, están los elementos naturales, los cuales pueden ser montañas, planicies, valles, quebradas, cañones, lagos y lagunas, pantanos, ríos, caídas agua, manantiales, costas, grutas y cavernas, áreas protegidas.
+          p En primer lugar, están los elementos naturales, los cuales pueden ser montañas, planicies, valles, quebradas, cañones, lagos y lagunas, pantanos, ríos, caídas de agua, manantiales, costas, grutas y cavernas, áreas protegidas.
           p Colombia es un país privilegiado, cuenta con dos (2) costas y variados climas, lo que redunda en una multiplicidad de paisajes y diversidad natural.
           p.mb-0 A continuación, se realiza un recorrido por algunos de los más famosos y hermosos sitios de la naturaleza.
       .col-lg-6
@@ -67,14 +67,14 @@
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-5.mb-4.mb-lg-0
               h4 Costas
-              p.mb-0 Las costas tienen una especial atracción para el ser humano. Whitehaven, en Australia, tiene el título de la playa mas linda del mundo.
+              p.mb-0 Las costas tienen una especial atracción para el ser humano. Whitehaven, en Australia, tiene el título de la playa más linda del mundo.
             .col-sm-10.col-lg-6
               figure
                 img(src='@/assets/curso/tema2/7.png', alt='')
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-5.mb-4.mb-lg-0
               h4 Grutas y cavernas
-              p.mb-0 La cueva de Eisriesenwelt (interior de esta cueva de hielo) está situada en Austria, a 40 kilómetros de Salzburgo.
+              p.mb-0 Cueva de Eisriesenwelt (interior de esta cueva de hielo) está situada en Austria, a 40 kilómetros de Salzburgo.
             .col-sm-10.col-lg-6
               figure
                 img(src='@/assets/curso/tema2/8.png', alt='')
@@ -224,36 +224,36 @@
         tbody
           tr
             td(rowspan="7") Naturales
-            td(colspan="2") #[strong Geomorfológicos – Litorales]
-            td(colspan="2") Rocas e islas, playas, acantilados, desembocaduras de ríos
+            td(colspan="2") #[strong Geomorfológicos - Litorales]
+            td(colspan="2") Rocas e islas, playas, acantilados, desembocaduras de ríos.
           tr
-            td(colspan="2") #[strong Geomorfológicos – Lagunas y depósitos de agua]
-            td(colspan="2") Lagos, lagunas
+            td(colspan="2") #[strong Geomorfológicos - Lagunas y depósitos de agua]
+            td(colspan="2") Lagos, lagunas.
           tr
-            td(colspan="2") #[strong Geomorfológicos – Corrientes de agua]
-            td(colspan="2") Superficiales: cañones, cascadas. Subterráneas: manantiales, grutas
+            td(colspan="2") #[strong Geomorfológicos - Corrientes de agua]
+            td(colspan="2") Superficiales: cañones, cascadas. Subterráneas: manantiales, grutas.
           tr
-            td(colspan="2") #[strong Geomorfológicos – Volcanismo]
-            td(colspan="2") Cráteres, aguas termales y minerales, géiseres
+            td(colspan="2") #[strong Geomorfológicos - Volcanismo]
+            td(colspan="2") Cráteres, aguas termales y minerales, géiseres.
           tr
-            td(colspan="2") #[strong Geomorfológicos – Relieves]
-            td(colspan="2") Montañas, barrancas y cañones, planicies, dunas
+            td(colspan="2") #[strong Geomorfológicos - Relieves]
+            td(colspan="2") Montañas, barrancas y cañones, planicies, dunas.
           tr
-            td(colspan="2") #[strong Biogeográficos – Agrupaciones vegetales]
-            td(colspan="2") Selvas, bosques
+            td(colspan="2") #[strong Biogeográficos - Agrupaciones vegetales]
+            td(colspan="2") Selvas, bosques.
           tr
-            td(colspan="2") #[strong Biogeográficos – Agrupaciones vegetales]
-            td(colspan="2") Fauna silvestre, zonas de caza
+            td(colspan="2") #[strong Biogeográficos - Agrupaciones animales]
+            td(colspan="2") Fauna silvestre, zonas de caza.
           tr
             td(rowspan="3") Culturales
             td(colspan="2") #[strong Históricos]
-            td(colspan="2") Zonas arqueológicas, arquitectura antigua, lugares históricos, poblados típicos, folklore, fiestas tradicionales
+            td(colspan="2") Zonas arqueológicas, arquitectura antigua, lugares históricos, poblados típicos, folklore, fiestas tradicionales.
           tr
             td(colspan="2") #[strong Contemporáneos (comerciales)]
-            td(colspan="2") Centros de convenciones, instituciones de enseñanza, bibliotecas, museos y pinturas murales, obras monumentales, invernaderos, zoológicos
+            td(colspan="2") Centros de convenciones, instituciones de enseñanza, bibliotecas, museos y pinturas murales, obras monumentales, invernaderos, zoológicos.
           tr
             td(colspan="2") #[strong Contemporáneos (no comerciales)]
-            td(colspan="2") Parques de diversiones, balnearios, espectáculos culturales, espectáculos deportivos, campos deportivos, exposiciones nacionales e internacionales, mercados de artesanías, comercios, centros de salud, ferias y carnavales, celebraciones religiosas, casinos, concursos y competencias
+            td(colspan="2") Parques de diversiones, balnearios, espectáculos culturales, espectáculos deportivos, campos deportivos, exposiciones nacionales e internacionales, mercados de artesanías, comercios, centros de salud, ferias y carnavales, celebraciones religiosas, casinos, concursos y competencias.
 
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")

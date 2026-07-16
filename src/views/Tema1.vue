@@ -46,7 +46,7 @@
           img(src='@/assets/curso/tema1/4.svg', alt='')
           .tarjeta.bg-acento-botones-a5
             .p-4.text-center
-              h4 Socio cultural
+              h4 Sociocultural
               p.mb-0 Intercambio de experiencias.
       .col-md-6.col-lg-5.col-xl-3.mb-3.mb-lg-0
         .tarjeta-avatar.h-100
@@ -82,7 +82,7 @@
               .col-6
                 img(src='@/assets/curso/tema1/8.svg' alt='')
             h4.text-center Turismo de naturaleza 
-            p.text-center.mb-4 Ecoturismo, rural, de aventura, agroturismo, de nieve, aviturismo (ornitológico), de montaña, astroturismo, de animales, camping, geoturismo.
+            p.text-center.mb-4 Ecoturismo, rural, de aventura, agroturismo, de nieve, aviturismo (ornitológico), de montaña, astroturismo, de animales, #[em camping], geoturismo.
           .tarjeta.bg-img.bg-img--3.p-4.py-5
             .row.justify-content-center.mb-3
               .col-6
@@ -269,8 +269,8 @@
             .p-4.p-lg-3.p-xl-4
               h4 Infraestructura turística
               p.mb-0 Vías.
-              p.mb-0 Sistemas Comunicación.
-              p.mb-0 Sistema Sanitario.
+              p.mb-0 Sistemas de comunicación.
+              p.mb-0 Sistema sanitario.
               p.mb-0 Terminales de transporte.
       .col-sm-6.col-lg-4.mb-4
         .tarjeta-avatar-b.align-items-center(data-aos="fade-up").h-100

@@ -29,23 +29,15 @@
                   span Descargar
                   i.fas.fa-file-download
 
-      .col-lg-10.col-xl-6
-        .bloque-texto-e.color-secundario.py-2.px-4.rounded-4
-          .bloque-texto-e__texto
-            i.fas.fa-quote-left
-            h4 Sobre la importancia de la comunicación en la atención a visitantes
-            i.fas.fa-quote-right
-          .row.align-items-end
-            .col
-              .bloque-texto-e__autor 
-                p.mb-0 Blanco Amaya (2011).
+    .p-4.rounded-4.bg-secundario-s10.mb-4
+      p.mb-0 Sobre la importancia de la comunicación en la atención a visitantes, Blanco Amaya (2011) señala: 
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4.mb-4.mb-lg-0
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema5/3.png", alt="")
       .col-lg-8
-        p El desarrollo de la actividad como guía de turismo no es una tarea fácil de realizar, al tener que entablar relaciones interpersonales con personas que hace pocos segundos se ha conocido. Y es ahí donde la comunicación, como proceso de transmisión y recepción de ideas, información y mensajes, entra en acción al ser el requisito que permitirá durante todo el recorrido la interacción entre el turista y el guía. (Blanco Amaya, 2011).
+        p El desarrollo de la actividad como guía de turismo no es una tarea fácil de realizar, al tener que entablar relaciones interpersonales con personas que hace pocos segundos se han conocido. Y es ahí donde la comunicación, como proceso de transmisión y recepción de ideas, información y mensajes, entra en acción al ser el requisito que permitirá durante todo el recorrido la interacción entre el turista y el guía. (Blanco Amaya, 2011).
         .p-4.rounded-4.mb-3.bg-acento-contenido-a5
           p.mb-0 Aunque esta descripción corresponde al rol de guía de turismo, los principios de comunicación que describe aplican igualmente al personal de recepción hotelera, que cumple una función informativa similar con los huéspedes durante su estadía.
         p.mb-0 La comunicación asertiva en la prestación del servicio turístico permite promover y presentar los atractivos de cada región, demostrando valores de identidad y sentido de pertenencia hacia los elementos que conforman la riqueza del territorio. Al comunicar esta información, el personal debe ser coherente y demostrar respeto por los espacios que presenta a los visitantes (Blanco Amaya, 2011).
@@ -86,7 +78,7 @@
             figure.pt-3
               img.w-155(src="@/assets/curso/common/mic.png", alt="alt")
           .col-sm-8.col-lg-8
-            h5 ¿Sabías qué?
+            h5 ¿Sabías que?
             p Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-terciario.mb-3(
               texto="¿Cómo saber qué información turística es confiable y cómo transmitirla bien?"

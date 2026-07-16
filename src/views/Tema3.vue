@@ -23,7 +23,7 @@
       .col-lg-8
         p Aquellos servicios públicos, dependientes por regla general de organismos públicos o instituciones, que tienen como misión informar, facilitar y orientar al turista durante su estancia vacacional o viajes, facilitando gratuitamente información. (ONU Turismo, s. f.)
         .p-4.bg-acento-contenido-a5.rounded-4
-          p.mb-0 Es conveniente diferenciar la información turística de otras actividades relacionadas, como la promoción y la comunicación turística. En ese sentido, la característica más relevante que debe tener la información turística — y que constituye su principal diferenciador frente a las otras actividades mencionadas — es ser imparcial.
+          p.mb-0 Es conveniente diferenciar la información turística de otras actividades relacionadas, como la promoción y la comunicación turística. En ese sentido, la característica más relevante que debe tener la información turística —y que constituye su principal diferenciador frente a las otras actividades mencionadas— es ser imparcial.
 
     Separador
 
@@ -127,7 +127,7 @@
               span Mantener un espacio personal óptimo.
             li.d-flex.mb-0
               i.fas.fa-minus
-              span Fijarse de los elementos paralingüísticos (tono, entonación).
+              span Fijarse en los elementos paralingüísticos (tono, entonación).
           
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -156,7 +156,7 @@
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema1/15.png", alt="")
       .col-lg-9
         .bg-img.bg-img--8.p-4.rounded-4.h-100
-          p.pe-lg-5 Sin importar lo que esté sucediendo o el estado de ánimo del momento, cuando se cumple la función de atención al cliente — de forma presencial o telefónica — siempre se debe mantener un trato cordial. También es altamente recomendable conocer otro idioma y ser capaz de transmitir información en esa lengua. Para el caso de Colombia, el idioma más utilizado en el contexto turístico internacional es el inglés.
+          p.pe-lg-5 Sin importar lo que esté sucediendo o el estado de ánimo del momento, cuando se cumple la función de atención al cliente —de forma presencial o telefónica— siempre se debe mantener un trato cordial. También es altamente recomendable conocer otro idioma y ser capaz de transmitir información en esa lengua. Para el caso de Colombia, el idioma más utilizado en el contexto turístico internacional es el inglés.
           p.pe-lg-5 A continuación, se presentan las diez principales reglas de atención al cliente:
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4
@@ -244,7 +244,7 @@
             td Durante la interacción brinde toda su atención al interlocutor y mantenga contacto visual. Esto demuestra interés genuino por lo que el cliente desea comunicar.
           tr
             td #[strong Indagar]
-            td Comunique la información de manera clara y directa, pero respetuosa. Evite rodeos innecesarios o respuestas ambiguas.Realice preguntas cuando sea necesario para comprender correctamente el requerimiento o la necesidad del cliente.
+            td Realice preguntas cuando sea necesario para comprender correctamente el requerimiento o la necesidad del cliente.
           tr
             td #[strong La sencillez y la claridad]
             td Al proporcionar información evite el uso de vocabulario demasiado técnico. Utilice frases claras y comprensibles.
@@ -319,19 +319,22 @@
         figure
           img.mb-4.mb-lg-0(data-aos="fade-down-right", src="@/assets/curso/tema3/21.png", alt="")
       .col-lg-8
-        p Es claro que los turistas cada vez son más independientes y que, con el uso de herramientas y aplicaciones de viaje y el acceso a información publicada en internet (blogs, recomendaciones de plataformas web), se han convertido en viajeros hiperinformados. No es raro encontrar personas que conocen más sobre una zona o un atractivo que los propios habitantes del lugar.
+        p Es claro que los turistas cada vez son más independientes y que, con el uso de herramientas y aplicaciones de viaje y el acceso a información publicada en internet (#[em blogs], recomendaciones de plataformas web), se han convertido en viajeros hiperinformados. No es raro encontrar personas que conocen más sobre una zona o un atractivo que los propios habitantes del lugar.
         .p-4.bg-acento-contenido-a5.rounded-4.mb-3
           p.mb-0 Por este motivo, los empleados de recepción, conserjes y todos aquellos que dentro del hotel tengan contacto con clientes deben procurar estar bien informados: en primer lugar, sobre la información básica del destino (historia, demografía, ubicación de atractivos), y también sobre las actividades y eventos de la ciudad o municipio donde laboran y sus alrededores. Esta información está disponible en las entidades oficiales y con regularidad es entregada a los establecimientos.
         p.mb-0 Es función del jefe de recepción recibir y difundir esta información entre los empleados; sin embargo, es responsabilidad de cada empleado buscarla y conocerla.
     
     .p-4.bg-secundario-s10.rounded-4.mb-4
-      p.mb-0 Para explorar un ejemplo del tratamiento profesional de la información turística en Colombia, se recomienda visitar el portal oficial de turismo del país: Colombia Travel - Turismo en Colombia. <a href="https://colombia.travel/es">https://colombia.travel/es</a>
+      p Para explorar un ejemplo del tratamiento profesional de la información turística en Colombia, se recomienda visitar el portal oficial de turismo del país: Colombia Travel - Turismo en Colombia.
+      a.boton.color-acento-botones.me-3(href="https://colombia.travel/es" target="_blank")
+        span Enlace
+        i.fas.fa-link 
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-terciario-t5").mb-4
       .row.justify-content-center.align-items-center.z-2(titulo="Calidad en la información")
         .col-sm-10.col-lg-7.mb-4.mb-lg-0
           p La calidad de la información está directamente relacionada a la fuente de donde proviene. Nuevamente, las entidades oficiales son la fuente más fidedigna. También es válido consultar sitios de Internet, pero la recomendación es no quedarse con informaciones que no estén referenciadas y que no estén verificadas.
-          p.mb-0 Hay que tener particular cuidado y responsabilidad con los estereotipos acerca de la información turística, ya que es frecuente, por ejemplo, oír noticias negativas respecto a la seguridad de un determinado sitio. No significa que se deba mentir o disfrazar la verdad, pero si se debe buscar la mejor forma de entregar la información.
+          p.mb-0 Hay que tener particular cuidado y responsabilidad con los estereotipos acerca de la información turística, ya que es frecuente, por ejemplo, oír noticias negativas respecto a la seguridad de un determinado sitio. No significa que se deba mentir o disfrazar la verdad, pero sí se debe buscar la mejor forma de entregar la información.
         .col-sm-6.col-lg-3
           figure
             img(src='@/assets/curso/tema3/22.png', alt='')

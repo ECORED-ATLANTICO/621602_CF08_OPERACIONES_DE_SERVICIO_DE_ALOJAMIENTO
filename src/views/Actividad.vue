@@ -24,7 +24,7 @@ export default {
         '<b> Objetivo:</b> reconocer los conceptos básicos del sistema turístico, los atractivos, las fuentes de información turística y las técnicas de orientación espacial para fortalecer la capacidad de brindar información turística al visitante.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
-      titulo_reprobado: 'VUELVA A INTENTARLO.',
+      titulo_reprobado: '¡VUELVA A INTENTARLO!',
       preguntas: [
         {
           id: 1,
@@ -468,7 +468,7 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Conocimiento únicamente de marketing.',
+              texto: 'Conocimiento únicamente de <em>marketing</em>.',
               esCorrecta: false,
             },
             {
